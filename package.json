@@ -1,0 +1,16 @@
+{
+  "name": "weather-electron",
+  "version": "1.0.0",
+  "description": "A GUI weather app built with Electron and Node.js",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "keywords": ["weather", "electron", "nodejs", "desktop-app"],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "electron": "^37.2.6"
+  }
+}
